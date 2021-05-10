@@ -1,5 +1,5 @@
-### Starter Project for the Material UI playlist
+### ez-notes
 
-Download the code & run **npm install** to install dependencies before starting the app.
+A note editor made using React and Material UI.
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+[Link to website](https://ezzylan.github.io/ez-notes)
