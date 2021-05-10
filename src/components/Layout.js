@@ -63,7 +63,7 @@ export default function Layout({ children }) {
 						Today is {format(new Date(), "do MMMM Y")}
 					</Typography>{" "}
 					<Typography>EZ</Typography>
-					<Avatar src="/E-ZUL Logo.png" className={classes.avatar} />
+					<Avatar src="/logo.png" className={classes.avatar} />
 				</Toolbar>
 			</AppBar>
 
